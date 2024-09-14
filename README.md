@@ -9,6 +9,7 @@ Stack:
 - TailwindCSS
 - Vite
 - Chadcn UI - Not being used but setup already.
+- V0
 
 to run:
 
