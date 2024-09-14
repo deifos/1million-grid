@@ -1,6 +1,6 @@
 # Million dollar grid
 
-This grid was inspired by a X post by Florin here [this tweet](https://x.com/florinpop1705/status/1834645096567869538).
+This grid was inspired by a X post by @florinpop1705 on X here [this tweet](https://x.com/florinpop1705/status/1834645096567869538).
 
 Stack:
 
@@ -20,6 +20,9 @@ npm run dev
 # Demo:
 
 [https://1million-grid.vercel.app/](https://1million-grid.vercel.app/)
+
+![image](https://github.com/user-attachments/assets/f020b6df-1c99-4949-9756-562404dc0a2d)
+
 
 # React + TypeScript + Vite
 
