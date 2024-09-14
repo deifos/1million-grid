@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { ExternalLink, Sun, Moon, Palette, X } from "lucide-react";
+import { GitHubLogoIcon } from "@radix-ui/react-icons";
 
 interface Color {
   name: string;
@@ -201,6 +202,13 @@ export default function App() {
             >
               <Palette className="w-4 h-4 text-gray-700 dark:text-gray-300" />
             </button>
+            <a
+              href="https://github.com/deifos/1million-grid"
+              target="_blank"
+              className="p-2 rounded-full bg-gray-200 dark:bg-gray-800"
+            >
+              <GitHubLogoIcon />
+            </a>
           </div>
         </div>
       </nav>
